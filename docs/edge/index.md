@@ -7,7 +7,7 @@ description: ThingsBoard Edge to distribute data processing and analysis using e
 
 The ThingsBoard **Edge** will help you to distribute data processing and analysis using edge computing.
 
-For example, you can do the calculation and grouping of data from edge devices on the ThingsBoard Edge and push to the cloud only filtered and grouped data to reduce traffic and safe money.
+For example, you can do the calculation and grouping of data from edge devices on the ThingsBoard Edge and push to the cloud only filtered and grouped data to reduce traffic and save money.
  
 See [**What is ThingsBoard Edge?**](/docs/edge/getting-started-guides/what-is-edge/) for more details.
 
